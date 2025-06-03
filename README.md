@@ -2,7 +2,7 @@
 
 This project contains 20 diffrent **Jquery plugins**.
 
-The jquery plugins are:
+## The jquery plugins are:
 ---
 
 1. Carousel
