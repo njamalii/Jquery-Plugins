@@ -1,4 +1,5 @@
-Jquery Plugins
+# Jquery Plugins
+
 This project contains 20 diffrent **Jquery plugins**.
 
 The jquery plugins are:
